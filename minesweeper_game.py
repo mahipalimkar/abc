@@ -2,6 +2,7 @@
 import random
 import re
 
+#This is just a demo 
 class Board:
     def __init__(self, dim_size, num_bombs):
 

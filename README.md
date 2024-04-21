@@ -1,1 +1,1 @@
-demo
+This is demo of Minesweeper game
